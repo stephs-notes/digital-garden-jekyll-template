@@ -9,7 +9,7 @@ Oh, bună aici!🌱
 
 Acestea sunt notițele mele publice / [[Digital garden]]. Este un loc unde îmi împart gândurile și procesul de cultivare al acestora.
 
-Momentan sunt preocupat de [[relația mea cu tehnologia]]
+Momentan sunt preocupat de [[relația mea cu tehnologia]], cărți și filme. 
 <style>
   .wrapper {
     max-width: 46em;
