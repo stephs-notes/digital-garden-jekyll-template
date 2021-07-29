@@ -1,11 +1,18 @@
 ---
-title: Un ghid de grădinărit pentru mintea ta
+title:Ce este o grădină digitală? 
 ---
-This is what a gardening guide for your mind would look like:
 
-- **Seeds.** Cultivează-ți grădina minții cu conținut de calitate și hrănește-ți curiozitatea. Plantează semințe în grădina minții luând note personale inteligente. Acestea nu trebuie scrise într- formă publicabilă.  
-- **Trees.** Crește-ți cunoștințele prin stabilirea de conexiuni între notițe. 
-- **Fruits.** Sintetizează notițele și creează: eseuri, video-uri, poate cărți la un moment dat.
+- O colecție de gânduri, idei, însemnări, citate, rezumate și notițe care sunt mai mult decât un „tweet”, dar care nu au caracterul unui blog post sau al unui eseu publicat cu marcă de timp. 
+- Grădinile digitale sunt îngrijite să evolueze în timp. 
+- O grădină digitală întruchipează natura de a lucra în public și de a învăța cu voce tare: împărtășind înțelegerea actuală și permițând altora să învețe din ea. 
+- La fel ca rădăcinile încurcate ale plantelor, grădina digitală formează o rețea de conținut legat bidirecțional care susține și încurajează legătura și „polenizarea” către o înețelege suplimentară.
+
+Vezi [[Un ghid de grădinărit pentru mintea ta]], Acest proiect este încă într-un stadiu incipient, de aceea, încă învăț [[Cum să iei notițe inteligent|cum să iau notițe inteligente ]]
 
 
-Acest proiect este încă într-un stadiu incipient, de aceea, încă învăț [[Cum să iei notițe inteligent|cum să iau notițe inteligente ]]
+
+
+
+
+
+ 
