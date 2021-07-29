@@ -6,7 +6,7 @@ Fâșia Mobius este un obiect continuu, care are o singură latură și margine.
 
 Proprietăți:
 1. Continuitate.
-2. Îi lipsește proprietatea ca orientare. 
+2. Îi lipsește proprietatea de orientare. 
 
 Există o ipoteză conform căreia Universul este o buclă uriașă Mobius, demonstrat indirect de către teoria relativității a lui Einstein. 
 

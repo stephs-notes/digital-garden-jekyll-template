@@ -10,7 +10,7 @@ title: Proces de curățenie digitală
 
 
 
-**Plusuri**
+**Pros**
 - Conceptul de „telefon” a încetat să mai existe pentru mine, lucru care m-a făcut să mă simt liber. 
 - Calitatea somnului s-a îmbunătățit considerabil, iar dimineața mă trezeam odihnit. 
 - În ciuda indisponibilității mele în mediul online, nu am ratat nici o urgență, mesaj sau noutate. 

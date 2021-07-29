@@ -1,5 +1,4 @@
 ---
-title:Cum funcționează creierul nostru
+title: Cum funcționează creierul nostru
 ---
-
-*ah-ha! moment*
+*ah-ha moment*

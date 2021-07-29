@@ -1,15 +1,6 @@
 ---
 title: Femeia Nisipurilor - Kobo Abe
 ---
-
-Type: #book/fiction
-Author: Kobo Abe
-Year Published:
-Year Read: #read2021
-Month read: [[July 2021]]
-
-
-# Summary
 Niki Jumpa, profesor și entomolog, pleacă fără să anunțe pe nimeni în căutarea unei noi specii de insecte. Fiindcă nu plănuiește să stea mai mult de câteva zile, pleacă fără să anunțe pe nimeni. Din acest moment, Niki dispare pentru totdeauna(conform legii, după 7 ani de dispariție, un om este declarat mort).
 Explorând o zonă deșertică, este momit de un sat poziționat între dune - o capcană fascninantă: nisipuri mișcătoare, soare arzător și nisipul care se întinde cât cuprinde ochiul. Jumpa devine captiv într-o văgăună de nisip pe fundul căreia, într-o colibă, locuia o femeie - un personaj  care își acceptă existența obscură fără să se împotrivească. 
 Rolul lui aici, dar și al celorlalți săteni este reprezentată de o luptă cu pumnii în aer: trebuie să împiedice nisipul să distrugă colibele.
@@ -18,9 +9,7 @@ La sfârșitul romanului, lui Niki i se ivește posibilitatea să evadeze, doar 
 
 # Review
 
-Pentru mine, această carte este o metaforă tristă a înăbușirii aspirațiilor și a vocației prin muncă,cotidian. Fiecare avem menirea de a răspunde la nedumerire care ne paște specia: care este rolul nostru în această lume? 
-
-> Faptul că viaţa nu are niciun sens este o raţiune de a trăi, singura, de altfel. *Emil Cioran*
+Pentru mine, această carte este o metaforă tristă a înăbușirii aspirațiilor și a vocației prin muncă,cotidian. Fiecare avem menirea de a răspunde la nedumerire care ne paște specia: care este rolul nostru în această lume? *Faptul că viaţa nu are niciun sens este o raţiune de a trăi, singura, de altfel. Emil Cioran*
 
 # Quotes 
 > Înfrângerea începe atunci când răbdarea este socotită înfrângere. 

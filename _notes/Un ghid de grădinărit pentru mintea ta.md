@@ -1,7 +1,7 @@
 ---
 title: Un ghid de grădinărit pentru mintea ta
 ---
-This is what a gardening guide for your mind would look like:
+Așa ar arăta un ghid de grădinărit pentru mintea ta:
 
 - **Seeds.** Cultivează-ți grădina minții cu conținut de calitate și hrănește-ți curiozitatea. Plantează semințe în grădina minții luând note personale inteligente. Acestea nu trebuie scrise într- formă publicabilă.  
 - **Trees.** Crește-ți cunoștințele prin stabilirea de conexiuni între notițe. 
