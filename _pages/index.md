@@ -8,8 +8,11 @@ permalink: /
 _under construction_
 
 - [[Cărți]]
+
 - [[Filme]]
+
 - [[Writing]]
+
 - [[Fotografie]]
 
 <style>

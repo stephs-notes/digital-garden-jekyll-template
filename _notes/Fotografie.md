@@ -1,4 +1,4 @@
 ---
 title: Fotografie
 ---
-[[Vivian Maier]]
+- [[Vivian Maier]]
