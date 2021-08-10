@@ -5,11 +5,13 @@ id: home
 permalink: /
 ---
 
-Oh, bună aici!🌱
+_under construction_
 
-Acestea sunt notițele mele publice / [[Digital garden]]. Este un loc unde îmi împart gândurile și procesul de cultivare al acestora.
+- [[Cărți]]
+- [[Filme]]
+- [[Writing]]
+- [[Fotografie]]
 
-Momentan sunt preocupat de [[relația mea cu tehnologia]], [[Cărți]] și filme.
 <style>
   .wrapper {
     max-width: 46em;
