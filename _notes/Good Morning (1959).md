@@ -1,6 +1,7 @@
 ---
 title: Good Morning (1959)
 ---
+
 ## Summary
 Acțiunea filmului se petrece într-un sătuc de la periferia Tokyo-ului și urmărește drama unei familii cu doi băieți, adolescenți fiind,  merg adesea în vizită la un prieten să privească televizorul. În ciuda insistențelor, părinții refuză să le cumpere și lor un televizor, iar într-o ceartă, sunt acuzați că fac prea multă gălăgie. În semn de protest, băieții fac o grevă a tăcerii împotriva oricărui adult, iar această decizie are ca efect mai multe situații și neînțelegeri în care sunt nevoiți să renunțe la protestul lor. Totuși, dârzenia și insistența băieților sunt cele care vor decide cum se termină filmul. 
 
