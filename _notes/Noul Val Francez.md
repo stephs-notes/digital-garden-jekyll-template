@@ -3,13 +3,15 @@ title: Noul Val Francez
 ---
 ## Caracteristici
 - Camerele mai mici și mai ușoare, erau eliberate de pe trepied și se filma **handheld**, dând o nouă energie și viață filmelor
-- **Editare discontinuă**: tăierea bucăților plictisitoare a fost o abordare utilizată nu doar între scene, ci și în timpul lor. Jean-Luc Godard a folosit **Jump Cut**-ul pentru a reduce timpul de rulare al Breathless- efectul generează o energie unică în poveste și atrage atenția privitorului asupra experienșei de vizionare în sine.
-- Sunet autentic și **lumină naturală**
+- Editare discontinuă: tăierea bucăților plictisitoare a fost o abordare utilizată nu doar între scene, ci și în timpul lor. Jean-Luc Godard a folosit **Jump Cut**-ul pentru a reduce timpul de rulare al Breathless- efectul generează o energie unică în poveste și atrage atenția privitorului asupra experienșei de vizionare în sine.
+- Sunet autentic și lumină naturală
 
 ## Introducere
 Noul val francez cunoscut, cunoscut și sub numele de Nouvelle Vague, poate fi considerat una dintre cele mai influente mișcări de film care au avut loc în istoria cinematografiei. Undele create de această mișcare cinematografică pot fi simțite chiar și astăzi. 
 
 Noul Val nu e o „școală artistică” cu un anumit stil, ci mai degrabă un spirit care va avea la fel de multe traduceri diferite pe cât de mulți cineaști vor profita de ea. Întreaga gramatică a cinematografiei e pusă sub semnul întrebării în multe feluri: în filmări, în actorie, în montaj, în utilizarea vocii, relația cu autobiografia, modul de a filma orașul sau sentimentele.Timp de decenii, producția de film din mainstream a stabilit standardele și “regulile” cu privire la modul de realizare a unui film. Regizorii francezi au înțeles aceste reguli, iar apoi le-au aruncat pe fereastră.
+
+Cei mai notorii reprezentanți ai acestui val sunt François Truffaut, Alain Resnais, Jacques Rivette, Jean-Luc Godard
 
 ## Apariție
 Un grup de critici, care a scris pentru un jurnal de film francez numit Cahiers du Cinema, cu credința că filmele și-au pierdut abilitatea să capteze emoțiile umane și sinceritatea. Ei au simțit că filmele nu sunt în concordanță cu modul în care trăiesc oamenii. 
